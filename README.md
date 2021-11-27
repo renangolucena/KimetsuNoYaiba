@@ -1,3 +1,3 @@
-# Site Kimetsu No Yaiba
+# Kimetsu No Yaiba
 
 Site desenvolvido para fins educativos utilizando Bootstrap
